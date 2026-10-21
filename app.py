@@ -58,7 +58,7 @@ LOCATIONS = [
     "Block-48(Boys Hostel 2)",
     "Block-49(Boys Hostel 3)",
     "Block-50(Boys Hostel 7)",
-    "Block-51(Boys Hostel )", # bh4 ig
+    "Block-51(Boys Hostel 4)", 
     "Block-53(Boys Hostel 5)",
     "Block-55(School of Mechanical Engineering)",
     "Block-56(School of Civil Engineering)",
